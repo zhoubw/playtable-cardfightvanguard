@@ -1,0 +1,41 @@
+{
+	"Narukami": {
+		"EradicatorVowingSwordDragon": 1,
+        "BarrageEradicatorZion": 4,
+        "DischargingDragon": 2,
+        "EradicatorThunderBoomDragon": 4,
+        "EradicatorSparkRainDragon": 1,
+        "AssassinSwordEradicatorSusei": 1,
+        "DragonDancerVeronica": 2,
+        "LightningBladeEradicatorJeem": 4,
+        "RedRiverDragoon": 4,
+        "EradicatorDemolitionDragon": 4,
+        "DustStormEradicatorToko": 4,
+        "EradicatorOfFireKohkaiji": 2,
+        "StoneBulletEradicatorHouki": 1,
+        "EradicatorYellowGemCarbuncle": 4,
+        "EradicatorDragonMage": 4,
+        "ZephyrEradicatorHayate": 4,
+        "WormToxinEradicatorSeiobo": 4
+	},
+
+    "GoldPaladin": {
+        "SolitaryLiberatorGancelot": 1,
+        "DignifiedGoldDragon": 2,
+        "OnslaughtLiberatorMaelzion": 4,
+        "LiberatorOfSilenceGallatin": 4,
+        "LiberatorOfRoyaltyPhallon": 1,
+        "BlasterBladeLiberator": 1,
+        "ZoomDownEagle": 2,
+        "ZoigalLiberator": 4,
+        "KnightOfElegantSkillsGareth": 4,
+        "LittleLiberatorMarron": 4,
+        "PomerugalLiberator": 4,
+        "FutureLiberatorLlew": 2,
+        "AngelicLiberator": 1,
+        "StrikeLiberator": 4,
+        "ArmedLiberatorGwydion": 4,
+        "FortuneLiberator": 4,
+        "ElixirLiberator": 4
+    }
+}
